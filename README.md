@@ -15,10 +15,10 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/impai2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="impai2" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/soravith-puvekit-3a69" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="soravith-puvekit-3a69" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/soravith-puvekit-3a6962147/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="soravith-puvekit-3a69" height="30" width="40" /></a>
 <a href="https://fb.com/profile.php?id=100009782250843" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="profile.php?id=100009782250843" height="30" width="40" /></a>
 <a href="https://instagram.com/smonty_pie" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="smonty_pie" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/ucfox13iy_xsmfiolkf1cdug" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ucfox13iy_xsmfiolkf1cdug" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UCfOX13IY_XsMfiOlkF1cDug" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ucfox13iy_xsmfiolkf1cdug" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
