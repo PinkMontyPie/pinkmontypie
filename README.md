@@ -6,9 +6,9 @@
 
 - 🔭 I’m currently working on [My Portfolio](https://github.com/PinkMontyPie/Website-Portfolio)
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning [React](https://reactjs.org/), [Javascript](https://www.javascript.com/)
 
-- 👨‍💻 All of my projects are available at [soon](soon)
+- 👨‍💻 All of my projects are available at [My Github](https://github.com/PinkMontyPie)
 
 - 📫 How to reach me **soravith.puve@bumail.net**
 
