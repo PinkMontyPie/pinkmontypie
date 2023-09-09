@@ -4,9 +4,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pinkmontypie&label=Profile%20views&color=0e75b6&style=flat" alt="pinkmontypie" /> </p>
 
-- 🔭 I’m currently working on [My Portfolio](https://github.com/PinkMontyPie/Website-Portfolio)
+- 🔭 I’m currently working on [Project Coding for Coding for Metaverse](https://github.com/PinkMontyPie/Website-Portfolio)
 
-- 🌱 I’m currently learning [React](https://reactjs.org/), [Javascript](https://www.javascript.com/)
+- 🌱 I’m currently learning [React](https://reactjs.org/), [Typescript](https://www.typescriptlang.org/)
 
 - 👨‍💻 All of my projects are available at [My Github](https://github.com/PinkMontyPie)
 
