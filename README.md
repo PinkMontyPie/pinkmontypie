@@ -8,20 +8,20 @@
 
 - 🌱 I’m currently learning **Become Full Stack Developer.**
 
-- 👨‍💻 All of my projects are available at [My Github]
+- 👨‍💻 All of my projects are available at [My Github repositories](https://github.com/PinkMontyPie?tab=repositories)
 
 - 📫 How to reach me **soravithok@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/soravith-puvekit" target="blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin&theme=light" alt="soravith-puvekit"/></a>
+<a href="https://twitter.com/Impai2" target="blank"><img align="center" src="https://skillicons.dev/icons?i=twitter&theme=light" alt="soravith-puvekit"/></a>
 </p>
 
 
 # 💻 Tech Stack:
 [![My Skills](https://skillicons.dev/icons?i=azure,git,html,css,java,js,nextjs,nodejs,py,react,tailwind,ts,vercel,figma,&theme=dark)](https://skillicons.dev)
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=PinkMontyPie&theme=react&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=PinkMontyPie&theme=react&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=PinkMontyPie&theme=react&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
