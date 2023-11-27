@@ -1,6 +1,6 @@
 [![MasterHead](https://cdn.discordapp.com/attachments/409310142576984074/1068163058402332722/1d26c5b022c071fb8f1e3ae2f0f65ba9_1.gif)](https://www.youtube.com/watch?v=vVAgwHGF2Gc)
-<h1 align="center">Hi 👋, I'm Pai</h1>
-<h3 align="center">Front-End Developer</h3>
+<h1 align="left">Hi 👋, I'm Pai</h1>
+<h3 align="left">Front-End Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pinkmontypie&label=Profile%20views&color=0e75b6&style=flat" alt="pinkmontypie" /> </p>
 
