@@ -10,7 +10,10 @@
 
 ###
 
-<h5 align="left">🔭 I’m currently working on : Coding for Metaverse<br>🎯 Goals : Become Full Stack Developer.<br>👨‍💻 All of my projects are available at My Github repositories<br>📫 How to reach me soravithok@gmail.com</h5>
+<h5 align="left">🔭 I’m currently working on : Coding for Metaverse</h5>
+<h5 align="left">🎯 Goals : Become Full Stack Developer.</h5>
+<h5 align="left">👨‍💻 All of my projects are available at My Github repositories</h5>
+<h5 align="left">📫 How to reach me soravithok@gmail.com</h5>
 
 ###
 
