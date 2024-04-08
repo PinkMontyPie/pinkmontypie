@@ -2,7 +2,7 @@
 
 ###
 
-<h3 align="left">✌️My name is Soravith Puvekit but guys call me Pai.</h3>
+<h3 align="left">✌️My name is Soravith Puvekit but guys can call me Pai.</h3>
 <p align="left">👉I'm a Front-end developer who will become Full-stack developer soon.</p>
 
 ###
