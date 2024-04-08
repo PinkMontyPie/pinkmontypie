@@ -1,23 +1,13 @@
-<h1 align="left">Hey 👋 What's up?</h1>
+<h1 align="left">🙂 Hello There!!!</h1>
 
 ###
 
-<p align="left">My name is Soravith Puvekit and I'm a front-end developer</p>
+<h3 align="left">✌️My name is Soravith Puvekit but guys call me Pai.</h3>
+<p align="left">👉I'm a Front-end developer who will become Full-stack developer soon.</p>
 
 ###
 
-<h2 align="left">About me</h2>
-
-###
-
-<h5 align="left">🔭 I’m currently working on : Coding for Metaverse</h5>
-<h5 align="left">🎯 Goals : Become Full Stack Developer.</h5>
-<h5 align="left">👨‍💻 All of my projects are available at My Github repositories</h5>
-<h5 align="left">📫 How to reach me soravithok@gmail.com</h5>
-
-###
-
-<h2 align="left">I code with</h2>
+<h2 align="left">I code with👇</h2>
 
 ###
 
