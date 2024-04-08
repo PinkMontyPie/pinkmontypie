@@ -1,4 +1,3 @@
-[![MasterHead](https://yt3.googleusercontent.com/I6QO1FLe_a4iafCsFsWXm3iopw5ofeZfkpcAqbSdYNBdpiiueeriM7ieyafMJLdc9xsJxRqw=w2120-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj)](https://www.youtube.com/watch?v=vVAgwHGF2Gc)
 <h1 align="left">Hey 👋 What's up?</h1>
 
 ###
