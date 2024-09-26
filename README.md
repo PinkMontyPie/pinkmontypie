@@ -1,6 +1,6 @@
 <a href="https://my-portfolio-react-pink.vercel.app/" target="_blank">
   <div align="center">
-    <img src="https://soravith-dev.vercel.app/icon/Portpai.png" width="500" height="auto">
+    <img src="https://soravith-dev.vercel.app/icon/Portpai.png" width="400" height="auto">
   </div>
 </a>
 <h1 align="left">🙂Howdy!!</h1>
