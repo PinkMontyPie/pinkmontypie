@@ -1,6 +1,6 @@
 <a href="https://my-portfolio-react-pink.vercel.app/" target="_blank">
   <div align="center">
-<!--     <img src="https://cdn.discordapp.com/attachments/409310142576984074/1231617924859560027/Group_1_2.png?ex=66379c93&is=66252793&hm=71ebff1505214835a4d03cc81d1e179e0731169abf227c71ecf5af1a134ae93c&" width="588" height="343"> -->
+    <img src="https://soravith-dev.vercel.app/icon/Portpai.png" width="500" height="auto">
   </div>
 </a>
 <h1 align="left">🙂Howdy!!</h1>
@@ -69,9 +69,3 @@
 <div align="center">
   <img src="https://profile-counter.glitch.me/PinkMontyPie/count.svg?"  />
 </div>
-
-###
-
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=soravithok&cover_image=true&theme=compact&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)
-
-###
